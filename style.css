@@ -21,3 +21,9 @@ h1{
     font-family: Helvetica;
 }
 
+footer{
+    margin: 10px;
+    text-align: center;
+    background-color: lawngreen;
+}
+
